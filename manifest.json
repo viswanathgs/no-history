@@ -1,6 +1,6 @@
 {
   "name": "NoHistory",
-  "description": "Avoid distractions and mindless nagivation by auto-clearing chrome history and cache",
+  "description": "Avoid distractions and mindless nagivation by auto-clearing chrome history",
   "version": "0.1",
   "manifest_version": 3,
   "background": {

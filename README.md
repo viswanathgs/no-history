@@ -2,9 +2,9 @@
 
 A simple [Distraction Affliction Correction Extension](https://blog.xkcd.com/2011/02/18/distraction-affliction-correction-extensio/) for Chrome that clears all browsing history whenever the active tab changes. This helps curb mindless browsing and forces you to be intentional about the sites you visit (eg., no more typing `n` in the address bar and having it autocomplete to `news.ycombinator.com`).
 
-Doesn't touch cache, cookies, saved passwords, download history, form autofills, etc.
+![https://xkcd.com/862/](https://imgs.xkcd.com/comics/let_go.png)
 
-<https://xkcd.com/862/>
+Doesn't touch cache, cookies, saved passwords, download history, form autofills, etc.
 
 ## Setup
 
